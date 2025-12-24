@@ -1,0 +1,16 @@
+# C++ build files
+*.exe
+*.o
+*.obj
+/build/
+
+# React / Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
