@@ -1,0 +1,21 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "The Chat Application and 10+ concurrent user can chat and collaborate using socket (cpp)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devdarshananandhan/ChatApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Devdarshananandhan/ChatApp/issues"
+  },
+  "homepage": "https://github.com/Devdarshananandhan/ChatApp#readme"
+}
